@@ -1,6 +1,6 @@
 # MT Saneamento — Fase 0: Planejamento
 
-> Status: **aguardando aprovação do Victor**. Nenhum código de aplicação foi escrito.
+> Status: **respondido em 10/11/2026** — decisões consolidadas em [`decisoes.md`](decisoes.md).
 > Fonte: `prompt_sistema_mt_saneamento.md` (contexto, regras, requisitos, fases).
 
 ---
