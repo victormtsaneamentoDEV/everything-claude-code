@@ -112,6 +112,7 @@ everything-claude-code/
 |   |-- security-review/            # Security checklist
 |   |-- eval-harness/               # Verification loop evaluation (Longform Guide)
 |   |-- verification-loop/          # Continuous verification (Longform Guide)
+|   |-- sinais-de-escrita-ia/        # Detect/avoid AI writing patterns (Wikipedia "Signs of AI writing")
 |
 |-- commands/         # Slash commands for quick execution
 |   |-- tdd.md              # /tdd - Test-driven development
